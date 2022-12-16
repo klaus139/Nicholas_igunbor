@@ -10,7 +10,7 @@
 &ensp;<a href="https://dev.to/klaus139"><img src="https://github.com/klaus139/klaus139/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 
 &ensp;<a href="https://app.daily.dev/klaus139"><img src="https://github.com/klaus139/klaus139/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
-<!-- &ensp;<a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a> -->
+
 </div>
 
 
