@@ -1,6 +1,6 @@
-<img align=right src="https://github.com/klaus139/blob/master/devcard.svg" width="200" alt="Nicholas Dev Card"/> 
+
 <div align=center>
-<a href="https://www.tiktok.com/ni1klaus"><img src="https://github.com/klaus139/klaus139/blob/master/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
+<a href="https://www.tiktok.com/@ni1klaus"><img src="https://github.com/klaus139/klaus139/blob/master/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
 <a href="https://twitter.com/Nick_k1aus"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 
 &ensp;<a href="https://www.youtube.com/@nicholasigunbor2896"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
@@ -43,7 +43,7 @@
 
 
  
-<!-- <table><tr><td valign="top" width="50%">
+
 
 
  
