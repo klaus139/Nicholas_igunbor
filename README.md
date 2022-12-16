@@ -1,4 +1,4 @@
-<img align=right src="https://github.com/klaus139/klaus139/blob/main/devcard.svg" width="200" alt="Nicholas Dev Card"/> 
+<img align=right src="https://github.com/klaus139/blob/main/devcard.svg" width="200" alt="Nicholas Dev Card"/> 
 <div align=center>
 <a href="https://www.tiktok.com/@ni1klaus"><img src="https://github.com/klaus139/klaus139/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
 <a href="https://twitter.com/Nick_k1aus"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
