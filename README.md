@@ -5,9 +5,7 @@
 &ensp;<a href="https://discord.gg/UMa2ZDfp"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/nicholas-igunbor-17a20b142"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://www.instagram.com/nick_k1aus/?hl=en"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-&ensp;<a href="https://dev.to/klaus139"><img src="https://github.com/klaus139/klaus139/blob/master/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
-
-&ensp;<a href="https://app.daily.dev/klaus139"><img src="https://github.com/klaus139/klaus139/blob/master/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
+&ensp;<a href="https://dev.to/klaus139"><img src="https://github.com/klaus139/klaus139/blob/master/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>&ensp;<a href="https://app.daily.dev/klaus139"><img src="https://github.com/klaus139/klaus139/blob/master/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 
 </div>
 
@@ -37,7 +35,7 @@
 </tr></tr></table> 
 
 
-<a href="https://twitter.com/Nick_k1aus"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Nick_k1aus4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+<a href="https://twitter.com/Nick_k1aus"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Nick_k1aus?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
 
  
