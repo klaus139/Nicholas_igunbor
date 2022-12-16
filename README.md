@@ -1,9 +1,7 @@
 
 <div align=center>
 <a href="https://www.tiktok.com/@ni1klaus"><img src="https://github.com/klaus139/klaus139/blob/master/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
-<a href="https://twitter.com/Nick_k1aus"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-
-&ensp;<a href="https://www.youtube.com/@nicholasigunbor2896"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+<a href="https://twitter.com/Nick_k1aus"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> &ensp;<a href="https://www.youtube.com/@nicholasigunbor2896"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://discord.gg/UMa2ZDfp"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/nicholas-igunbor-17a20b142"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://www.instagram.com/nick_k1aus/?hl=en"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
