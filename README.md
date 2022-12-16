@@ -1,4 +1,4 @@
-<!-- <img align=right src="https://github.com/klaus139/main/devcard.svg" width="200" alt="Nicholas Dev Card"/> -->
+<img align=right src="https://github.com/klaus139/blob/master/devcard.svg" width="200" alt="Nicholas Dev Card"/> 
 <div align=center>
 <a href="https://www.tiktok.com/ni1klaus"><img src="https://github.com/klaus139/klaus139/blob/master/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
 <a href="https://twitter.com/Nick_k1aus"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
@@ -9,7 +9,7 @@
 &ensp;<a href="https://www.instagram.com/nick_k1aus/?hl=en"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
 &ensp;<a href="https://dev.to/klaus139"><img src="https://github.com/klaus139/klaus139/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 
-&ensp;<a href="https://app.daily.dev/klaus139"><img src="https://github.com/klaus139/klaus139/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
+&ensp;<a href="https://app.daily.dev/klaus139"><img src="https://github.com/klaus139/klaus139/blob/master/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 
  
- <table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 
  
