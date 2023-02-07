@@ -39,9 +39,12 @@
 
 <br />
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=klaus139&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/klaus139?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaus139&layout=compact&langs_count=8&theme=blue)](https://github.com/klaus139)
+<!-- [![my github stats](https://github-readme-stats.vercel.app/api?username=klaus139&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/klaus139?tab=repositories)&nbsp; -->
 
-#### Find me on
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaus139&layout=compact&langs_count=8&theme=blue)](https://github.com/klaus139)
+
+
 
 <!--
 <p align='left'>
