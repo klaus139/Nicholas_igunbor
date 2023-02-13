@@ -15,7 +15,9 @@
 ## 👋 Hi, I Am Nicholas
 
 - I am a Developer who is interested in Backend Node Js and MERN stack.
-- I have worked from 2021 to 2022 on the [Optimus project] for the Ingressive for good live project as a Backend Developer.
+- I worked on the [Optimus project] for Ingressive for good as a python developer.
+- Currently coding in javascript and typescript as a node js developer
+- Contributed to the codebase of Swift Rider application
 - Studied with ALX school of Software Engineering in 2022.
 - I Joined Decagon as a partner in 2022 as a Fullstack Developer.
 - Currently working on projects that can change the world :)
